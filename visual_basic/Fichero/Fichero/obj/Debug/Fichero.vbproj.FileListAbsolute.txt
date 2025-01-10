@@ -1,0 +1,12 @@
+C:\Users\heily\OneDrive\Escritorio\Dam-Privado\visual_basic\Fichero\Fichero\bin\Debug\Fichero.exe.config
+C:\Users\heily\OneDrive\Escritorio\Dam-Privado\visual_basic\Fichero\Fichero\bin\Debug\Fichero.exe
+C:\Users\heily\OneDrive\Escritorio\Dam-Privado\visual_basic\Fichero\Fichero\bin\Debug\Fichero.pdb
+C:\Users\heily\OneDrive\Escritorio\Dam-Privado\visual_basic\Fichero\Fichero\bin\Debug\Fichero.xml
+C:\Users\heily\OneDrive\Escritorio\Dam-Privado\visual_basic\Fichero\Fichero\obj\Debug\Fichero.vbproj.AssemblyReference.cache
+C:\Users\heily\OneDrive\Escritorio\Dam-Privado\visual_basic\Fichero\Fichero\obj\Debug\Fichero.Form1.resources
+C:\Users\heily\OneDrive\Escritorio\Dam-Privado\visual_basic\Fichero\Fichero\obj\Debug\Fichero.Resources.resources
+C:\Users\heily\OneDrive\Escritorio\Dam-Privado\visual_basic\Fichero\Fichero\obj\Debug\Fichero.vbproj.GenerateResource.cache
+C:\Users\heily\OneDrive\Escritorio\Dam-Privado\visual_basic\Fichero\Fichero\obj\Debug\Fichero.vbproj.CoreCompileInputs.cache
+C:\Users\heily\OneDrive\Escritorio\Dam-Privado\visual_basic\Fichero\Fichero\obj\Debug\Fichero.exe
+C:\Users\heily\OneDrive\Escritorio\Dam-Privado\visual_basic\Fichero\Fichero\obj\Debug\Fichero.xml
+C:\Users\heily\OneDrive\Escritorio\Dam-Privado\visual_basic\Fichero\Fichero\obj\Debug\Fichero.pdb

@@ -1,0 +1,12 @@
+C:\Users\heily\OneDrive\Escritorio\Dam-Privado\visual_basic\Controlesdedialogo\Controlesdedialogo\bin\Debug\Controlesdedialogo.exe.config
+C:\Users\heily\OneDrive\Escritorio\Dam-Privado\visual_basic\Controlesdedialogo\Controlesdedialogo\bin\Debug\Controlesdedialogo.exe
+C:\Users\heily\OneDrive\Escritorio\Dam-Privado\visual_basic\Controlesdedialogo\Controlesdedialogo\bin\Debug\Controlesdedialogo.pdb
+C:\Users\heily\OneDrive\Escritorio\Dam-Privado\visual_basic\Controlesdedialogo\Controlesdedialogo\bin\Debug\Controlesdedialogo.xml
+C:\Users\heily\OneDrive\Escritorio\Dam-Privado\visual_basic\Controlesdedialogo\Controlesdedialogo\obj\Debug\Controlesdedialogo.vbproj.AssemblyReference.cache
+C:\Users\heily\OneDrive\Escritorio\Dam-Privado\visual_basic\Controlesdedialogo\Controlesdedialogo\obj\Debug\Controlesdedialogo.Form1.resources
+C:\Users\heily\OneDrive\Escritorio\Dam-Privado\visual_basic\Controlesdedialogo\Controlesdedialogo\obj\Debug\Controlesdedialogo.Resources.resources
+C:\Users\heily\OneDrive\Escritorio\Dam-Privado\visual_basic\Controlesdedialogo\Controlesdedialogo\obj\Debug\Controlesdedialogo.vbproj.GenerateResource.cache
+C:\Users\heily\OneDrive\Escritorio\Dam-Privado\visual_basic\Controlesdedialogo\Controlesdedialogo\obj\Debug\Controlesdedialogo.vbproj.CoreCompileInputs.cache
+C:\Users\heily\OneDrive\Escritorio\Dam-Privado\visual_basic\Controlesdedialogo\Controlesdedialogo\obj\Debug\Controlesdedialogo.exe
+C:\Users\heily\OneDrive\Escritorio\Dam-Privado\visual_basic\Controlesdedialogo\Controlesdedialogo\obj\Debug\Controlesdedialogo.xml
+C:\Users\heily\OneDrive\Escritorio\Dam-Privado\visual_basic\Controlesdedialogo\Controlesdedialogo\obj\Debug\Controlesdedialogo.pdb
