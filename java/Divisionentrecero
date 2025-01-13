@@ -1,0 +1,28 @@
+package DamPrivado.java;
+
+import java.io.File;
+
+public class DivisionEntreCero {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        
+        while (true) {
+            try {
+                System.out.print("Introduce el numerador: ");
+                int numerador = scanner.nextInt();
+                
+                System.out.print("Introduce el divisor: ");
+                int divisor = scanner.nextInt();
+                
+                int resultado = numerador / divisor;
+                System.out.println("El resultado es: " + resultado);
+                
+                break; 
+            } catch (ArithmeticException e) {
+                System.out.println("Error: No se puede dividir entre cero. Intenta de nuevo.");
+            }
+        }
+
+        scanner.close();
+    }
+}
