@@ -1,0 +1,12 @@
+C:\Users\heily\OneDrive\Escritorio\Dam-Privado\visual_basic\ConexionaBDinicial\ConexionaBDinicial\bin\Debug\ConexionaBDinicial.exe.config
+C:\Users\heily\OneDrive\Escritorio\Dam-Privado\visual_basic\ConexionaBDinicial\ConexionaBDinicial\bin\Debug\ConexionaBDinicial.exe
+C:\Users\heily\OneDrive\Escritorio\Dam-Privado\visual_basic\ConexionaBDinicial\ConexionaBDinicial\bin\Debug\ConexionaBDinicial.pdb
+C:\Users\heily\OneDrive\Escritorio\Dam-Privado\visual_basic\ConexionaBDinicial\ConexionaBDinicial\bin\Debug\ConexionaBDinicial.xml
+C:\Users\heily\OneDrive\Escritorio\Dam-Privado\visual_basic\ConexionaBDinicial\ConexionaBDinicial\obj\Debug\ConexionaBDinicial.vbproj.AssemblyReference.cache
+C:\Users\heily\OneDrive\Escritorio\Dam-Privado\visual_basic\ConexionaBDinicial\ConexionaBDinicial\obj\Debug\ConexionaBDinicial.Form1.resources
+C:\Users\heily\OneDrive\Escritorio\Dam-Privado\visual_basic\ConexionaBDinicial\ConexionaBDinicial\obj\Debug\ConexionaBDinicial.Resources.resources
+C:\Users\heily\OneDrive\Escritorio\Dam-Privado\visual_basic\ConexionaBDinicial\ConexionaBDinicial\obj\Debug\ConexionaBDinicial.vbproj.GenerateResource.cache
+C:\Users\heily\OneDrive\Escritorio\Dam-Privado\visual_basic\ConexionaBDinicial\ConexionaBDinicial\obj\Debug\ConexionaBDinicial.vbproj.CoreCompileInputs.cache
+C:\Users\heily\OneDrive\Escritorio\Dam-Privado\visual_basic\ConexionaBDinicial\ConexionaBDinicial\obj\Debug\ConexionaBDinicial.exe
+C:\Users\heily\OneDrive\Escritorio\Dam-Privado\visual_basic\ConexionaBDinicial\ConexionaBDinicial\obj\Debug\ConexionaBDinicial.xml
+C:\Users\heily\OneDrive\Escritorio\Dam-Privado\visual_basic\ConexionaBDinicial\ConexionaBDinicial\obj\Debug\ConexionaBDinicial.pdb
