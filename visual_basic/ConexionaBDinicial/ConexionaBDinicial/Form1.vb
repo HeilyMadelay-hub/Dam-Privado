@@ -5,8 +5,6 @@ Public Class Form1
 
     Dim oconexion As New OleDbConnection
 
-
-
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
         oconexion.ConnectionString = ("Provider=Microsoft.Jet.OLEDB.4.0;Data Source=" & Application.StartupPath & "\dbempresas.mdb;")

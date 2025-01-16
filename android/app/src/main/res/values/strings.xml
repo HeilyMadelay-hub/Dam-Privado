@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TareaIndividual8</string>
+    <string name="buttonActivity1">Reproduccion de audio</string>
+    <string name="buttonActivity2">Reproducción de video</string>
 </resources>
