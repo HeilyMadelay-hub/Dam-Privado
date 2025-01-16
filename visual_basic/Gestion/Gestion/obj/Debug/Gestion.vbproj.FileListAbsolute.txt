@@ -1,0 +1,12 @@
+C:\Users\heily\OneDrive\Escritorio\github\DamPrivado\visual_basic\Gestion\Gestion\bin\Debug\Gestion.exe.config
+C:\Users\heily\OneDrive\Escritorio\github\DamPrivado\visual_basic\Gestion\Gestion\bin\Debug\Gestion.exe
+C:\Users\heily\OneDrive\Escritorio\github\DamPrivado\visual_basic\Gestion\Gestion\bin\Debug\Gestion.pdb
+C:\Users\heily\OneDrive\Escritorio\github\DamPrivado\visual_basic\Gestion\Gestion\bin\Debug\Gestion.xml
+C:\Users\heily\OneDrive\Escritorio\github\DamPrivado\visual_basic\Gestion\Gestion\obj\Debug\Gestion.vbproj.AssemblyReference.cache
+C:\Users\heily\OneDrive\Escritorio\github\DamPrivado\visual_basic\Gestion\Gestion\obj\Debug\Gestion.Form1.resources
+C:\Users\heily\OneDrive\Escritorio\github\DamPrivado\visual_basic\Gestion\Gestion\obj\Debug\Gestion.Resources.resources
+C:\Users\heily\OneDrive\Escritorio\github\DamPrivado\visual_basic\Gestion\Gestion\obj\Debug\Gestion.vbproj.GenerateResource.cache
+C:\Users\heily\OneDrive\Escritorio\github\DamPrivado\visual_basic\Gestion\Gestion\obj\Debug\Gestion.vbproj.CoreCompileInputs.cache
+C:\Users\heily\OneDrive\Escritorio\github\DamPrivado\visual_basic\Gestion\Gestion\obj\Debug\Gestion.exe
+C:\Users\heily\OneDrive\Escritorio\github\DamPrivado\visual_basic\Gestion\Gestion\obj\Debug\Gestion.xml
+C:\Users\heily\OneDrive\Escritorio\github\DamPrivado\visual_basic\Gestion\Gestion\obj\Debug\Gestion.pdb
