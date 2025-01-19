@@ -8,7 +8,7 @@ package data;
  *
  * @author heily
  */
-public class Main {
+public class ServidorMulticast {
 
     /**
      * @param args the command line arguments
