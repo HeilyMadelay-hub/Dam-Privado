@@ -2,6 +2,7 @@
 Imports System.Data.OleDb
 
 Public Class Form1
+
     Private oconexion As New OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=" & Application.StartupPath & "\dbbanco.accdb;")
     Private saldoActual As Double
 
