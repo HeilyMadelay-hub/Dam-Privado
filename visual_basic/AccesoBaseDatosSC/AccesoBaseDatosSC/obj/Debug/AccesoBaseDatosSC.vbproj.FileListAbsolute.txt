@@ -1,0 +1,12 @@
+C:\Users\tarde\source\repos\AccesoBaseDatosSC\AccesoBaseDatosSC\bin\Debug\AccesoBaseDatosSC.exe.config
+C:\Users\tarde\source\repos\AccesoBaseDatosSC\AccesoBaseDatosSC\bin\Debug\AccesoBaseDatosSC.exe
+C:\Users\tarde\source\repos\AccesoBaseDatosSC\AccesoBaseDatosSC\bin\Debug\AccesoBaseDatosSC.pdb
+C:\Users\tarde\source\repos\AccesoBaseDatosSC\AccesoBaseDatosSC\bin\Debug\AccesoBaseDatosSC.xml
+C:\Users\tarde\source\repos\AccesoBaseDatosSC\AccesoBaseDatosSC\obj\Debug\AccesoBaseDatosSC.vbproj.AssemblyReference.cache
+C:\Users\tarde\source\repos\AccesoBaseDatosSC\AccesoBaseDatosSC\obj\Debug\AccesoBaseDatosSC.Form1.resources
+C:\Users\tarde\source\repos\AccesoBaseDatosSC\AccesoBaseDatosSC\obj\Debug\AccesoBaseDatosSC.Resources.resources
+C:\Users\tarde\source\repos\AccesoBaseDatosSC\AccesoBaseDatosSC\obj\Debug\AccesoBaseDatosSC.vbproj.GenerateResource.cache
+C:\Users\tarde\source\repos\AccesoBaseDatosSC\AccesoBaseDatosSC\obj\Debug\AccesoBaseDatosSC.vbproj.CoreCompileInputs.cache
+C:\Users\tarde\source\repos\AccesoBaseDatosSC\AccesoBaseDatosSC\obj\Debug\AccesoBaseDatosSC.exe
+C:\Users\tarde\source\repos\AccesoBaseDatosSC\AccesoBaseDatosSC\obj\Debug\AccesoBaseDatosSC.xml
+C:\Users\tarde\source\repos\AccesoBaseDatosSC\AccesoBaseDatosSC\obj\Debug\AccesoBaseDatosSC.pdb
