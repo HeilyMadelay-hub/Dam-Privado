@@ -1,10 +1,13 @@
 
 package data;
 
-/**
- *
- * @author heily
- */
 public class TCPCliente {
+    
+    public static void main(String[] args){
+    
+    
+    
+    
+    }
 
 }
