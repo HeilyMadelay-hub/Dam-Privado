@@ -1,0 +1,12 @@
+C:\Users\heily\OneDrive\Escritorio\github\DamPrivado\visual_basic\odataAdapter.odataset\odataAdapter.odataset\bin\Debug\odataAdapter.odataset.exe.config
+C:\Users\heily\OneDrive\Escritorio\github\DamPrivado\visual_basic\odataAdapter.odataset\odataAdapter.odataset\bin\Debug\odataAdapter.odataset.exe
+C:\Users\heily\OneDrive\Escritorio\github\DamPrivado\visual_basic\odataAdapter.odataset\odataAdapter.odataset\bin\Debug\odataAdapter.odataset.pdb
+C:\Users\heily\OneDrive\Escritorio\github\DamPrivado\visual_basic\odataAdapter.odataset\odataAdapter.odataset\bin\Debug\odataAdapter.odataset.xml
+C:\Users\heily\OneDrive\Escritorio\github\DamPrivado\visual_basic\odataAdapter.odataset\odataAdapter.odataset\obj\Debug\odataAdapter.odataset.vbproj.AssemblyReference.cache
+C:\Users\heily\OneDrive\Escritorio\github\DamPrivado\visual_basic\odataAdapter.odataset\odataAdapter.odataset\obj\Debug\odataAdapter.odataset.Form1.resources
+C:\Users\heily\OneDrive\Escritorio\github\DamPrivado\visual_basic\odataAdapter.odataset\odataAdapter.odataset\obj\Debug\odataAdapter.odataset.Resources.resources
+C:\Users\heily\OneDrive\Escritorio\github\DamPrivado\visual_basic\odataAdapter.odataset\odataAdapter.odataset\obj\Debug\odataAdapter.odataset.vbproj.GenerateResource.cache
+C:\Users\heily\OneDrive\Escritorio\github\DamPrivado\visual_basic\odataAdapter.odataset\odataAdapter.odataset\obj\Debug\odataAdapter.odataset.vbproj.CoreCompileInputs.cache
+C:\Users\heily\OneDrive\Escritorio\github\DamPrivado\visual_basic\odataAdapter.odataset\odataAdapter.odataset\obj\Debug\odataAdapter.odataset.exe
+C:\Users\heily\OneDrive\Escritorio\github\DamPrivado\visual_basic\odataAdapter.odataset\odataAdapter.odataset\obj\Debug\odataAdapter.odataset.xml
+C:\Users\heily\OneDrive\Escritorio\github\DamPrivado\visual_basic\odataAdapter.odataset\odataAdapter.odataset\obj\Debug\odataAdapter.odataset.pdb

@@ -1,0 +1,12 @@
+C:\Users\heily\OneDrive\Escritorio\github\DamPrivado\visual_basic\BancoAmpliacion-HACER\BancoAmpliacion\obj\Debug\BancoAmpliacion.vbproj.AssemblyReference.cache
+C:\Users\heily\OneDrive\Escritorio\github\DamPrivado\visual_basic\BancoAmpliacion-HACER\BancoAmpliacion\obj\Debug\BancoAmpliacion.Resources.resources
+C:\Users\heily\OneDrive\Escritorio\github\DamPrivado\visual_basic\BancoAmpliacion-HACER\BancoAmpliacion\obj\Debug\BancoAmpliacion.vbproj.GenerateResource.cache
+C:\Users\heily\OneDrive\Escritorio\github\DamPrivado\visual_basic\BancoAmpliacion-HACER\BancoAmpliacion\obj\Debug\BancoAmpliacion.vbproj.CoreCompileInputs.cache
+C:\Users\heily\OneDrive\Escritorio\github\DamPrivado\visual_basic\BancoAmpliacion-HACER\BancoAmpliacion\bin\Debug\BancoAmpliacion.exe.config
+C:\Users\heily\OneDrive\Escritorio\github\DamPrivado\visual_basic\BancoAmpliacion-HACER\BancoAmpliacion\bin\Debug\BancoAmpliacion.exe
+C:\Users\heily\OneDrive\Escritorio\github\DamPrivado\visual_basic\BancoAmpliacion-HACER\BancoAmpliacion\bin\Debug\BancoAmpliacion.pdb
+C:\Users\heily\OneDrive\Escritorio\github\DamPrivado\visual_basic\BancoAmpliacion-HACER\BancoAmpliacion\bin\Debug\BancoAmpliacion.xml
+C:\Users\heily\OneDrive\Escritorio\github\DamPrivado\visual_basic\BancoAmpliacion-HACER\BancoAmpliacion\obj\Debug\BancoAmpliacion.exe
+C:\Users\heily\OneDrive\Escritorio\github\DamPrivado\visual_basic\BancoAmpliacion-HACER\BancoAmpliacion\obj\Debug\BancoAmpliacion.xml
+C:\Users\heily\OneDrive\Escritorio\github\DamPrivado\visual_basic\BancoAmpliacion-HACER\BancoAmpliacion\obj\Debug\BancoAmpliacion.pdb
+C:\Users\heily\OneDrive\Escritorio\github\DamPrivado\visual_basic\BancoAmpliacion-HACER\BancoAmpliacion\obj\Debug\BancoAmpliacion.FormBanco.resources
