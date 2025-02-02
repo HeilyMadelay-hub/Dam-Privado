@@ -26,7 +26,7 @@ public class TCPServidor {
         
         try(ServerSocket servidor=new ServerSocket(numPuerto)){
             
-            System.out.println("Servidor escuchando en el puerdo"+numPuerto);
+            System.out.println("Servidor escuchando en el puerto "+numPuerto);
             
             //Acepta la conexion al cliente
             
@@ -48,12 +48,5 @@ public class TCPServidor {
            
            }
         }
-        
-       
-        
-        
-    
-    
     }
-
 }
