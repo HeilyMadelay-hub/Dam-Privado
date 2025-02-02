@@ -12,43 +12,45 @@ public class TCPServidor {
     //tener problemas con permisos,error en los recursos del sistema y otros problemas con 
     //los fallos de red
     
+    //1.Crea un serversocket en el puerto 6000
+    //2.espera conexiones de clientes
+    //3.cuando un cliente se conecta le envia un objeto persona espera recibir el objeto modificado del cliente
+    //4.espera recibir el objeto modificado del cliente
+    //5.muestra los mensajes apropiados del cliente 
+    //6.maneja las excepciones
     
-    public static void main(String[]args) throws IOException {
+    
+    public static void main(String[]args) throws IOException, ClassNotFoundException {
         
         final int numPuerto=6000;//Fijamos el puerto
         
-        ServerSocket servidor=new ServerSocket(numPuerto);
-        
-        System.out.println("Servidor escuchando en el puerto "+ numPuerto);
-        
-        //Acepta la conexion al cliente
-        
-        try(Socket socket=servidor.accept();
-            ObjectOutputStream salida=new ObjectOutputStream(socket.getOutputStream());
-            ObjectInputStream entrada=new ObjectInputStream(socket.getInputStream())) {
+        try(ServerSocket servidor=new ServerSocket(numPuerto)){
             
-            //Crear y enviar un objeto cliente
+            System.out.println("Servidor escuchando en el puerdo"+numPuerto);
             
-            Persona persona=new Persona("Juan",25);
+            //Acepta la conexion al cliente
             
-            salida.writeObject(persona);//Enviar objeto al cliente
-            
-            System.out.println("Enviado datos");
-        
-        
-        
+            try(Socket socket=servidor.accept();
+                    
+               ObjectOutputStream salida=new ObjectOutputStream(socket.getOutputStream());
+               ObjectInputStream entrada=new ObjectInputStream(socket.getInputStream())){
+               
+                //Crear y enviar un objeto cliente
+                Persona persona=new Persona("Juan",25);
+                
+                salida.writeObject(persona);//Enviar objeto al cliente
+                System.out.println("Enviado objeto persona: "+persona);
+                
+                //Recibir el objeto modificado del cliente
+                Persona personaModificada=(Persona)entrada.readObject();
+                System.out.println("Recibido objeto modificado:"+personaModificada);
+               
+           
+           }
         }
-                  
-                ){
         
+       
         
-        
-        
-        }catch(){
-        
-        
-        
-        }
         
     
     
