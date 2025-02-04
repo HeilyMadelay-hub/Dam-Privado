@@ -1,0 +1,30 @@
+From: Google <no-reply@accounts.google.com>
+Date: Tue Feb 04 19:30:20 CET 2025
+Subject: Se ha activado la verificación en dos pasos
+
+--- Contenido ---
+
+[image: Google]
+Se ha activado la verificación en dos pasos
+
+
+womens.are.women@gmail.com
+
+Ahora, tu cuenta de Google, womens.are.women@gmail.com, está protegida con
+la verificación en dos pasos. Si inicias sesión en un dispositivo nuevo o
+que no sea de confianza, tendrás que usar tu segundo factor para verificar
+que eres tú.
+
+*No permitas que se bloquee el acceso a tu cuenta*
+Puedes añadir un teléfono alternativo o conseguir códigos de seguridad para
+usarlos cuando no tengas a mano tu segundo factor.
+Puedes revisar los ajustes de la verificación en dos pasos
+<https://accounts.google.com/AccountChooser?Email=womens.are.women@gmail.com&continue=https://myaccount.google.com/signinoptions/two-step-verification?rfn%3D16%26rfnc%3D1%26eid%3D789938824411925981%26et%3D0>
+para hacer cambios.
+También puedes ver toda la actividad de seguridad en
+https://myaccount.google.com/notifications
+Te hemos enviado este correo electrónico para informarte de cambios
+importantes en tu cuenta y en los servicios de Google.
+© 2025 Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland
+
+<!DOCTYPE html><html lang="en"><head><meta name="format-detection" content="email=no"/><meta name="format-detection" content="date=no"/><style nonce="Wi7uDLjX6KX9exikQ9EJfw">.awl a {color: #FFFFFF; text-decoration: none;} .abml a {color: #000000; font-family: Roboto-Medium,Helvetica,Arial,sans-serif; font-weight: bold; text-decoration: none;} .adgl a {color: rgba(0, 0, 0, 0.87); text-decoration: none;} .afal a {color: #b0b0b0; text-decoration: none;} @media screen and (min-width: 600px) {.v2sp {padding: 6px 30px 0px;} .v2rsp {padding: 0px 10px;}} @media screen and (min-width: 600px) {.mdv2rw {padding: 40px 40px;}} </style><link href="//fonts.googleapis.com/css?family=Google+Sans" rel="stylesheet" type="text/css" nonce="Wi7uDLjX6KX9exikQ9EJfw"/></head><body style="margin: 0; padding: 0;" bgcolor="#FFFFFF"><table width="100%" height="100%" style="min-width: 348px;" border="0" cellspacing="0" cellpadding="0" lang="en"><tr height="32" style="height: 32px;"><td></td></tr><tr align="center"><td><div itemscope itemtype="//schema.org/EmailMessage"><div itemprop="action" itemscope itemtype="//schema.org/ViewAction"><link itemprop="url" href="https://accounts.google.com/AccountChooser?Email=womens.are.women@gmail.com&amp;continue=https://myaccount.google.com/signinoptions/two-step-verification?rfn%3D16%26rfnc%3D1%26eid%3D789938824411925981%26et%3D0"/><meta itemprop="name" content="¡Repasemos!"/></div></div><table border="0" cellspacing="0" cellpadding="0" style="padding-bottom: 20px; max-width: 516px; min-width: 220px;"><tr><td width="8" style="width: 8px;"></td><td><div style="border-style: solid; border-width: thin; border-color:#dadce0; border-radius: 8px; padding: 40px 20px;" align="center" class="mdv2rw"><img src="https://www.gstatic.com/images/branding/googlelogo/2x/googlelogo_color_74x24dp.png" width="74" height="24" aria-hidden="true" style="margin-bottom: 16px;" alt="Google"><div style="font-family: &#39;Google Sans&#39;,Roboto,RobotoDraft,Helvetica,Arial,sans-serif;border-bottom: thin solid #dadce0; color: rgba(0,0,0,0.87); line-height: 32px; padding-bottom: 24px;text-align: center; word-break: break-word;"><div style="font-size: 24px;">Se ha activado la verificación en dos pasos </div><table align="center" style="margin-top:8px;"><tr style="line-height: normal;"><td align="right" style="padding-right:8px;"><img width="20" height="20" style="width: 20px; height: 20px; vertical-align: sub; border-radius: 50%;;" src="https://lh3.googleusercontent.com/a/ACg8ocJn6FcWzfHHLUGDyHZ9a17BTMirfknwfiT0OKuUZZrLhd5qYQ=s96-c" alt=""></td><td><a style="font-family: &#39;Google Sans&#39;,Roboto,RobotoDraft,Helvetica,Arial,sans-serif;color: rgba(0,0,0,0.87); font-size: 14px; line-height: 20px;">womens.are.women@gmail.com</a></td></tr></table> </div><div style="font-family: Roboto-Regular,Helvetica,Arial,sans-serif; font-size: 14px; color: rgba(0,0,0,0.87); line-height: 20px;padding-top: 20px; text-align: left;"><p>Ahora, tu cuenta de Google, womens.are.women@gmail.com, está protegida con la verificación en dos pasos. Si inicias sesión en un dispositivo nuevo o que no sea de confianza, tendrás que usar tu segundo factor para verificar que eres tú.</p><p><b>No permitas que se bloquee el acceso a tu cuenta</b><br>Puedes añadir un teléfono alternativo o conseguir códigos de seguridad para usarlos cuando no tengas a mano tu segundo factor.</p>Puedes <a href="https://accounts.google.com/AccountChooser?Email=womens.are.women@gmail.com&amp;continue=https://myaccount.google.com/signinoptions/two-step-verification?rfn%3D16%26rfnc%3D1%26eid%3D789938824411925981%26et%3D0" style="text-decoration: none; color: #4285F4;" target="_blank">revisar los ajustes de la verificación en dos pasos</a> para hacer cambios.</div><div style="padding-top: 20px; font-size: 12px; line-height: 16px; color: #5f6368; letter-spacing: 0.3px; text-align: center">También puedes ver toda la actividad de seguridad en<br><a style="color: rgba(0, 0, 0, 0.87);text-decoration: inherit;">https://myaccount.google.com/notifications</a></div></div><div style="text-align: left;"><div style="font-family: Roboto-Regular,Helvetica,Arial,sans-serif;color: rgba(0,0,0,0.54); font-size: 11px; line-height: 18px; padding-top: 12px; text-align: center;"><div>Te hemos enviado este correo electrónico para informarte de cambios importantes en tu cuenta y en los servicios de Google.</div><div style="direction: ltr;">&copy; 2025 Google Ireland Ltd., <a class="afal" style="font-family: Roboto-Regular,Helvetica,Arial,sans-serif;color: rgba(0,0,0,0.54); font-size: 11px; line-height: 18px; padding-top: 12px; text-align: center;">Gordon House, Barrow Street, Dublin 4, Ireland</a></div></div></div></td><td width="8" style="width: 8px;"></td></tr></table></td></tr><tr height="32" style="height: 32px;"><td></td></tr></table></body></html>

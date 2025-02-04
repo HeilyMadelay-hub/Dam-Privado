@@ -1,0 +1,43 @@
+From: Google <no-reply@accounts.google.com>
+Date: Tue Feb 04 19:49:40 CET 2025
+Subject: Nuevo inicio de sesión usando un código de verificación alternativo
+
+--- Contenido ---
+
+[image: Google]
+Se ha utilizado un código de verificación alternativo de ocho dígitos para
+iniciar sesión
+
+
+womens.are.women@gmail.com
+Se acaba de utilizar un código de verificación alternativo de ocho dígitos
+en lugar de un código de verificación de tu teléfono para iniciar sesión en
+tu cuenta de Google, womens.are.women@gmail.com. Te quedan 10 códigos de
+verificación alternativos. Puedes obtener más códigos aquí
+<https://myaccount.google.com/signinoptions/two-step-verification?rfr=sem>.
+
+Si has usado un código de verificación alternativo debido a un problema con
+tu teléfono, puedes modificar la configuración de la verificación en dos
+pasos
+<https://myaccount.google.com/signinoptions/two-step-verification?rfr=sem>.
+Puedes añadir un número de teléfono de rescate
+<https://support.google.com/accounts/answer/1188780?rfr=sem>, generar más  
+códigos
+de verificación alternativos
+<https://support.google.com/accounts/answer/1187538?rfr=sem> o configurar
+una aplicación de smartphone
+<https://support.google.com/accounts/answer/1066447?rfr=sem> para que
+genere los códigos (la aplicación funciona aunque no tengas cobertura
+telefónica o de datos).
+
+*¿No reconoces esta actividad?*
+Revisa ahora los dispositivos que has utilizado recientemente
+<https://accounts.google.com/AccountChooser?Email=womens.are.women@gmail.com&continue=https://myaccount.google.com/alert/nt/1738694980844?rfn%3D12%26rfnc%3D1%26eid%3D1495261746667375836%26et%3D0>
+.
+También puedes ver toda la actividad de seguridad en
+https://myaccount.google.com/notifications
+Te hemos enviado este correo electrónico para informarte de cambios
+importantes en tu cuenta y en los servicios de Google.
+© 2025 Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland
+
+<!DOCTYPE html><html lang="en"><head><meta name="format-detection" content="email=no"/><meta name="format-detection" content="date=no"/><style nonce="k0gg27kO2MMPyDaDXTdOWg">.awl a {color: #FFFFFF; text-decoration: none;} .abml a {color: #000000; font-family: Roboto-Medium,Helvetica,Arial,sans-serif; font-weight: bold; text-decoration: none;} .adgl a {color: rgba(0, 0, 0, 0.87); text-decoration: none;} .afal a {color: #b0b0b0; text-decoration: none;} @media screen and (min-width: 600px) {.v2sp {padding: 6px 30px 0px;} .v2rsp {padding: 0px 10px;}} @media screen and (min-width: 600px) {.mdv2rw {padding: 40px 40px;}} </style><link href="//fonts.googleapis.com/css?family=Google+Sans" rel="stylesheet" type="text/css" nonce="k0gg27kO2MMPyDaDXTdOWg"/></head><body style="margin: 0; padding: 0;" bgcolor="#FFFFFF"><table width="100%" height="100%" style="min-width: 348px;" border="0" cellspacing="0" cellpadding="0" lang="en"><tr height="32" style="height: 32px;"><td></td></tr><tr align="center"><td><div itemscope itemtype="//schema.org/EmailMessage"><div itemprop="action" itemscope itemtype="//schema.org/ViewAction"><link itemprop="url" href="https://accounts.google.com/AccountChooser?Email=womens.are.women@gmail.com&amp;continue=https://myaccount.google.com/alert/nt/1738694980844?rfn%3D12%26rfnc%3D1%26eid%3D1495261746667375836%26et%3D0"/><meta itemprop="name" content="¡Repasemos!"/></div></div><table border="0" cellspacing="0" cellpadding="0" style="padding-bottom: 20px; max-width: 516px; min-width: 220px;"><tr><td width="8" style="width: 8px;"></td><td><div style="border-style: solid; border-width: thin; border-color:#dadce0; border-radius: 8px; padding: 40px 20px;" align="center" class="mdv2rw"><img src="https://www.gstatic.com/images/branding/googlelogo/2x/googlelogo_color_74x24dp.png" width="74" height="24" aria-hidden="true" style="margin-bottom: 16px;" alt="Google"><div style="font-family: &#39;Google Sans&#39;,Roboto,RobotoDraft,Helvetica,Arial,sans-serif;border-bottom: thin solid #dadce0; color: rgba(0,0,0,0.87); line-height: 32px; padding-bottom: 24px;text-align: center; word-break: break-word;"><div style="font-size: 24px;">Se ha utilizado un código de verificación alternativo de ocho dígitos para iniciar sesión </div><table align="center" style="margin-top:8px;"><tr style="line-height: normal;"><td align="right" style="padding-right:8px;"><img width="20" height="20" style="width: 20px; height: 20px; vertical-align: sub; border-radius: 50%;;" src="https://lh3.googleusercontent.com/a/ACg8ocJn6FcWzfHHLUGDyHZ9a17BTMirfknwfiT0OKuUZZrLhd5qYQ=s96-c" alt=""></td><td><a style="font-family: &#39;Google Sans&#39;,Roboto,RobotoDraft,Helvetica,Arial,sans-serif;color: rgba(0,0,0,0.87); font-size: 14px; line-height: 20px;">womens.are.women@gmail.com</a></td></tr></table> </div><div style="font-family: Roboto-Regular,Helvetica,Arial,sans-serif; font-size: 14px; color: rgba(0,0,0,0.87); line-height: 20px;padding-top: 20px; text-align: left;">Se acaba de utilizar un código de verificación alternativo de ocho dígitos en lugar de un código de verificación de tu teléfono para iniciar sesión en tu cuenta de Google, <a>womens.are.women@gmail.com</a>. Te quedan 10 códigos de verificación alternativos. Puedes obtener más códigos <a href="https://myaccount.google.com/signinoptions/two-step-verification?rfr=sem" style="text-decoration: none; color: #4285F4;" target="_blank">aquí</a>.<br><br>Si has usado un código de verificación alternativo debido a un problema con tu teléfono, puedes modificar la <a href="https://myaccount.google.com/signinoptions/two-step-verification?rfr=sem" style="text-decoration: none; color: #4285F4;" target="_blank">configuración de la verificación en dos pasos</a>. Puedes añadir un <a href="https://support.google.com/accounts/answer/1188780?rfr=sem" style="text-decoration: none; color: #4285F4;" target="_blank">número de teléfono de rescate</a>, generar más <a href="https://support.google.com/accounts/answer/1187538?rfr=sem" style="text-decoration: none; color: #4285F4;" target="_blank">códigos de verificación alternativos</a> o configurar una <a href="https://support.google.com/accounts/answer/1066447?rfr=sem" style="text-decoration: none; color: #4285F4;" target="_blank">aplicación de smartphone</a> para que genere los códigos (la aplicación funciona aunque no tengas cobertura telefónica o de datos).<br><br><b>¿No reconoces esta actividad?</b><br>Revisa ahora los <a href="https://accounts.google.com/AccountChooser?Email=womens.are.women@gmail.com&amp;continue=https://myaccount.google.com/alert/nt/1738694980844?rfn%3D12%26rfnc%3D1%26eid%3D1495261746667375836%26et%3D0" data-meta-key="review-devices" style="text-decoration: none; color: #4285F4;" target="_blank">dispositivos que has utilizado recientemente</a>.</div><div style="padding-top: 20px; font-size: 12px; line-height: 16px; color: #5f6368; letter-spacing: 0.3px; text-align: center">También puedes ver toda la actividad de seguridad en<br><a style="color: rgba(0, 0, 0, 0.87);text-decoration: inherit;">https://myaccount.google.com/notifications</a></div></div><div style="text-align: left;"><div style="font-family: Roboto-Regular,Helvetica,Arial,sans-serif;color: rgba(0,0,0,0.54); font-size: 11px; line-height: 18px; padding-top: 12px; text-align: center;"><div>Te hemos enviado este correo electrónico para informarte de cambios importantes en tu cuenta y en los servicios de Google.</div><div style="direction: ltr;">&copy; 2025 Google Ireland Ltd., <a class="afal" style="font-family: Roboto-Regular,Helvetica,Arial,sans-serif;color: rgba(0,0,0,0.54); font-size: 11px; line-height: 18px; padding-top: 12px; text-align: center;">Gordon House, Barrow Street, Dublin 4, Ireland</a></div></div></div></td><td width="8" style="width: 8px;"></td></tr></table></td></tr><tr height="32" style="height: 32px;"><td></td></tr></table></body></html>
