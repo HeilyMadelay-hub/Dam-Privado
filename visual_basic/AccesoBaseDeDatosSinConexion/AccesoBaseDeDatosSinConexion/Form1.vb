@@ -13,6 +13,12 @@ Public Class Form1
         Button3.Enabled = False
         Button4.Enabled = False
         Button5.Enabled = False
+
+        oconexion.Open()
+
+        odataadapter.Fill(odataset, "tb1")
+
+        oconexion.Close()
     End Sub
 
 
@@ -20,9 +26,7 @@ Public Class Form1
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         Try
-            ' Abrir la conexión
-            oconexion.Open()
-            odataadapter.Fill(odataset, "tb1")
+
             MsgBox("Conexión exitosa a la base de datos,  Ok!!", MsgBoxStyle.Information, "Estado de Conexión")
 
             ' Habilitar los otros botones después de la conexión exitosa
@@ -37,11 +41,7 @@ Public Class Form1
         Catch ex As Exception
             ' Manejo de otros errores generales
             MsgBox("Se produjo un error: " & ex.Message, MsgBoxStyle.Critical, "Error General")
-        Finally
-            ' Asegurarse de cerrar la conexión, incluso si ocurre un error
-            If oconexion.State = ConnectionState.Open Then
-                oconexion.Close()
-            End If
+
         End Try
     End Sub
 
@@ -49,13 +49,7 @@ Public Class Form1
 
         Try
 
-            'Abrir la conexion 
 
-            oconexion.Open()
-
-            'Cargar los datos de la base de datos
-
-            odataadapter.Fill(odataset, "tb1")
 
             ' Limpiar el ListBox antes de agregar los nuevos datos
             ListBox1.Items.Clear()
@@ -69,11 +63,7 @@ Public Class Form1
 
         Catch ex As OleDbException
             MsgBox("Error al acceder a la base de datos: " & ex.Message, MsgBoxStyle.Critical, "Error de Base de Datos")
-        Finally
-            ' Asegurarse de cerrar la conexión
-            If oconexion.State = ConnectionState.Open Then
-                oconexion.Close()
-            End If
+
         End Try
 
     End Sub
@@ -82,9 +72,7 @@ Public Class Form1
 
         Try
 
-            'Abrir la conexion 
 
-            oconexion.Open()
 
             'Asegurarse que el dataset tiene la estructura de la tabla
             If odataset.Tables("tb1") Is Nothing OrElse odataset.Tables("tb1").Rows.Count = 0 Then
@@ -123,11 +111,7 @@ Public Class Form1
 
             MsgBox("Error al insertar en la base de datos: " & ex.Message, MsgBoxStyle.Critical, "Error de Base de Datos")
 
-        Finally
-            ' Asegurarse de cerrar la conexión
-            If oconexion.State = ConnectionState.Open Then
-                oconexion.Close()
-            End If
+
         End Try
 
         'Limpiar los TextBox después de insertar
@@ -153,11 +137,7 @@ Public Class Form1
             End If
         Catch ex As OleDbException
             MsgBox("Error al eliminar el registro: " & ex.Message, MsgBoxStyle.Critical, "Error de Base de Datos")
-        Finally
-            ' Asegurarse de cerrar la conexión
-            If oconexion.State = ConnectionState.Open Then
-                oconexion.Close()
-            End If
+
         End Try
     End Sub
     Private Sub Button5_Click(sender As Object, e As EventArgs) Handles Button5.Click
@@ -201,11 +181,7 @@ Public Class Form1
 
         Catch ex As OleDbException
             MsgBox("Error al actualizar el registro: " & ex.Message, MsgBoxStyle.Critical, "Error de Base de Datos")
-        Finally
-            ' Asegurarse de cerrar la conexión
-            If oconexion.State = ConnectionState.Open Then
-                oconexion.Close()
-            End If
+
         End Try
     End Sub
 

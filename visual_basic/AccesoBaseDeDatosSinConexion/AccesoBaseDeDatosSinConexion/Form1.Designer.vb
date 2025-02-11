@@ -34,6 +34,11 @@ Partial Class Form1
         Me.TextBoxNombre = New System.Windows.Forms.TextBox()
         Me.TextBoxDireccion = New System.Windows.Forms.TextBox()
         Me.TextBoxTelefono = New System.Windows.Forms.TextBox()
+<<<<<<< HEAD
+=======
+        Me.Button6 = New System.Windows.Forms.Button()
+        Me.Button7 = New System.Windows.Forms.Button()
+>>>>>>> b57d1c4 (Arreglado el open y close)
         Me.SuspendLayout()
         '
         'ListBox1
@@ -138,11 +143,38 @@ Partial Class Form1
         Me.TextBoxTelefono.Size = New System.Drawing.Size(100, 22)
         Me.TextBoxTelefono.TabIndex = 11
         '
+<<<<<<< HEAD
+=======
+        'Button6
+        '
+        Me.Button6.Location = New System.Drawing.Point(720, 357)
+        Me.Button6.Name = "Button6"
+        Me.Button6.Size = New System.Drawing.Size(79, 23)
+        Me.Button6.TabIndex = 12
+        Me.Button6.Text = "Modificar "
+        Me.Button6.UseVisualStyleBackColor = True
+        '
+        'Button7
+        '
+        Me.Button7.Location = New System.Drawing.Point(839, 357)
+        Me.Button7.Name = "Button7"
+        Me.Button7.Size = New System.Drawing.Size(79, 23)
+        Me.Button7.TabIndex = 13
+        Me.Button7.Text = "Filtrar"
+        Me.Button7.UseVisualStyleBackColor = True
+        '
+>>>>>>> b57d1c4 (Arreglado el open y close)
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+<<<<<<< HEAD
         Me.ClientSize = New System.Drawing.Size(800, 450)
+=======
+        Me.ClientSize = New System.Drawing.Size(1023, 450)
+        Me.Controls.Add(Me.Button7)
+        Me.Controls.Add(Me.Button6)
+>>>>>>> b57d1c4 (Arreglado el open y close)
         Me.Controls.Add(Me.TextBoxTelefono)
         Me.Controls.Add(Me.TextBoxDireccion)
         Me.Controls.Add(Me.TextBoxNombre)
@@ -174,4 +206,9 @@ Partial Class Form1
     Friend WithEvents TextBoxNombre As TextBox
     Friend WithEvents TextBoxDireccion As TextBox
     Friend WithEvents TextBoxTelefono As TextBox
+<<<<<<< HEAD
+=======
+    Friend WithEvents Button6 As Button
+    Friend WithEvents Button7 As Button
+>>>>>>> b57d1c4 (Arreglado el open y close)
 End Class
