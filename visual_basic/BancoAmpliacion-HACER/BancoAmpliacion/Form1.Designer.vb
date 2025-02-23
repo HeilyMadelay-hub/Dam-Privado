@@ -68,8 +68,7 @@ Partial Class FormBanco
         '
         'FormBanco
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
-        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Inherit
         Me.ClientSize = New System.Drawing.Size(368, 260)
         Me.Controls.Add(Me.ButtonSalir)
         Me.Controls.Add(Me.ButtonGestion)

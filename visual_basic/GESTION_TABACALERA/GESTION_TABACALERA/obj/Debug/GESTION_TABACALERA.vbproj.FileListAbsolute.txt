@@ -1,0 +1,17 @@
+C:\Users\heily\Desktop\PROYECTOS\Dam-Privado\DamPrivado\visual_basic\GESTION_TABACALERA\GESTION_TABACALERA\bin\Debug\GESTION_TABACALERA.exe.config
+C:\Users\heily\Desktop\PROYECTOS\Dam-Privado\DamPrivado\visual_basic\GESTION_TABACALERA\GESTION_TABACALERA\bin\Debug\GESTION_TABACALERA.exe
+C:\Users\heily\Desktop\PROYECTOS\Dam-Privado\DamPrivado\visual_basic\GESTION_TABACALERA\GESTION_TABACALERA\bin\Debug\GESTION_TABACALERA.pdb
+C:\Users\heily\Desktop\PROYECTOS\Dam-Privado\DamPrivado\visual_basic\GESTION_TABACALERA\GESTION_TABACALERA\bin\Debug\GESTION_TABACALERA.xml
+C:\Users\heily\Desktop\PROYECTOS\Dam-Privado\DamPrivado\visual_basic\GESTION_TABACALERA\GESTION_TABACALERA\obj\Debug\GESTION_TABACALERA.vbproj.AssemblyReference.cache
+C:\Users\heily\Desktop\PROYECTOS\Dam-Privado\DamPrivado\visual_basic\GESTION_TABACALERA\GESTION_TABACALERA\obj\Debug\GESTION_TABACALERA.Form1.resources
+C:\Users\heily\Desktop\PROYECTOS\Dam-Privado\DamPrivado\visual_basic\GESTION_TABACALERA\GESTION_TABACALERA\obj\Debug\GESTION_TABACALERA.Form2.resources
+C:\Users\heily\Desktop\PROYECTOS\Dam-Privado\DamPrivado\visual_basic\GESTION_TABACALERA\GESTION_TABACALERA\obj\Debug\GESTION_TABACALERA.Form3.resources
+C:\Users\heily\Desktop\PROYECTOS\Dam-Privado\DamPrivado\visual_basic\GESTION_TABACALERA\GESTION_TABACALERA\obj\Debug\GESTION_TABACALERA.Resources.resources
+C:\Users\heily\Desktop\PROYECTOS\Dam-Privado\DamPrivado\visual_basic\GESTION_TABACALERA\GESTION_TABACALERA\obj\Debug\GESTION_TABACALERA.vbproj.GenerateResource.cache
+C:\Users\heily\Desktop\PROYECTOS\Dam-Privado\DamPrivado\visual_basic\GESTION_TABACALERA\GESTION_TABACALERA\obj\Debug\GESTION_TABACALERA.vbproj.CoreCompileInputs.cache
+C:\Users\heily\Desktop\PROYECTOS\Dam-Privado\DamPrivado\visual_basic\GESTION_TABACALERA\GESTION_TABACALERA\obj\Debug\GESTION_TABACALERA.exe
+C:\Users\heily\Desktop\PROYECTOS\Dam-Privado\DamPrivado\visual_basic\GESTION_TABACALERA\GESTION_TABACALERA\obj\Debug\GESTION_TABACALERA.xml
+C:\Users\heily\Desktop\PROYECTOS\Dam-Privado\DamPrivado\visual_basic\GESTION_TABACALERA\GESTION_TABACALERA\obj\Debug\GESTION_TABACALERA.pdb
+C:\Users\heily\Desktop\PROYECTOS\Dam-Privado\DamPrivado\visual_basic\GESTION_TABACALERA\GESTION_TABACALERA\obj\Debug\GESTION_TABACALERA.Form4.resources
+C:\Users\heily\Desktop\PROYECTOS\Dam-Privado\DamPrivado\visual_basic\GESTION_TABACALERA\GESTION_TABACALERA\obj\Debug\GESTION_TABACALERA.Form5.resources
+C:\Users\heily\Desktop\PROYECTOS\Dam-Privado\DamPrivado\visual_basic\GESTION_TABACALERA\GESTION_TABACALERA\obj\Debug\GESTION_TABACALERA.Form6.resources
