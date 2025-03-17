@@ -1,0 +1,12 @@
+C:\Users\heily\Desktop\HeilyMadelayAjila_coches\HeilyMadelayAjila_coches\bin\Debug\HeilyMadelayAjila_coches.exe.config
+C:\Users\heily\Desktop\HeilyMadelayAjila_coches\HeilyMadelayAjila_coches\bin\Debug\HeilyMadelayAjila_coches.exe
+C:\Users\heily\Desktop\HeilyMadelayAjila_coches\HeilyMadelayAjila_coches\bin\Debug\HeilyMadelayAjila_coches.pdb
+C:\Users\heily\Desktop\HeilyMadelayAjila_coches\HeilyMadelayAjila_coches\bin\Debug\HeilyMadelayAjila_coches.xml
+C:\Users\heily\Desktop\HeilyMadelayAjila_coches\HeilyMadelayAjila_coches\obj\Debug\HeilyMadelayAjila_coches.vbproj.AssemblyReference.cache
+C:\Users\heily\Desktop\HeilyMadelayAjila_coches\HeilyMadelayAjila_coches\obj\Debug\HeilyMadelayAjila_coches.Form1.resources
+C:\Users\heily\Desktop\HeilyMadelayAjila_coches\HeilyMadelayAjila_coches\obj\Debug\HeilyMadelayAjila_coches.Resources.resources
+C:\Users\heily\Desktop\HeilyMadelayAjila_coches\HeilyMadelayAjila_coches\obj\Debug\HeilyMadelayAjila_coches.vbproj.GenerateResource.cache
+C:\Users\heily\Desktop\HeilyMadelayAjila_coches\HeilyMadelayAjila_coches\obj\Debug\HeilyMadelayAjila_coches.vbproj.CoreCompileInputs.cache
+C:\Users\heily\Desktop\HeilyMadelayAjila_coches\HeilyMadelayAjila_coches\obj\Debug\HeilyMadelayAjila_coches.exe
+C:\Users\heily\Desktop\HeilyMadelayAjila_coches\HeilyMadelayAjila_coches\obj\Debug\HeilyMadelayAjila_coches.xml
+C:\Users\heily\Desktop\HeilyMadelayAjila_coches\HeilyMadelayAjila_coches\obj\Debug\HeilyMadelayAjila_coches.pdb
